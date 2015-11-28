@@ -6,12 +6,12 @@
   "primary_category": "3f17304920ec4dc7a1b1884ed096325f", 
   "created_at": "2015-11-19T16:45:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-11-19T16:57:48.519762+00:00", 
+  "modified_at": "2015-11-28T19:46:23.486143+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 20, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "do-you-feel-alone-world", 
   "uuid": "c65be79d1f3541b08ccb00880a2ee317"
